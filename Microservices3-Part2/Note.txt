@@ -1,0 +1,31 @@
+
+
+
+C:\Users\Ani\AppData\Local\Programs\Eclipse Adoptium\jdk-11.0.32.101-hotspot
+
+
+http://localhost:8080/v1/organization/optimaGrowth/license/01234567845
+
+
+
+
+
+
+So… and then it senses refractive index changes. So, when the liquid crystal molecule changes orientation, if you squint your eyes here, you see?
+you'll see the intensities changing, right? So this is another, you know, demo of Copaxial optics, but this time it's never optics with the electronics. And you can see, you know, the resonance, and we measure it, and we apply a voltage, and it shifts as a function of the voltage.
+
+
+
+
+
+	<dependency>
+          <groupId>jakarta.persistence</groupId>
+          <artifactId>jakarta.persistence-api</artifactId>
+          <version>3.1.0</version>
+        </dependency>
+	</dependencies>
+	  <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+			 <version>3.5.7</version>
+        </dependency>
